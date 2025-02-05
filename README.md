@@ -1,2 +1,2 @@
-# bdrelacionales
-Base de datos relacionales
+# Luis Carlos Santillán
+4AVP
